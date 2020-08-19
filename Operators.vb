@@ -3,7 +3,8 @@
     'RCET0265
     'Fall 2020
     'Smooth Operators
-    '
+    'https://github.com/CalvinAC/Smooth-Operators.git
+
 
     Sub Main()
 
