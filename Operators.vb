@@ -34,15 +34,50 @@
 
         'Concatenate numbers 
 
-        Console.WriteLine("2" + "2")
+        'Console.WriteLine("2" + "2")
+        'Console.ReadLine()
+
+        'Console.WriteLine("2" & "2")
+        'Console.ReadLine()
+
+
+        'Console.WriteLine("Wadu" + " Heck")
+        'Console.ReadLine()
+
+        'Comparisons
+
+
+        Console.WriteLine(1 > 3)
         Console.ReadLine()
 
-        Console.WriteLine("2" & "2")
+        Console.WriteLine(1 < 4)
+        Console.ReadLine()
+
+        Console.WriteLine(1 = 3)
         Console.ReadLine()
 
 
-        Console.WriteLine("Wadu" + " Heck")
+        Console.WriteLine(1 <> 4)
         Console.ReadLine()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     End Sub
 
 End Module
