@@ -10,25 +10,38 @@
 
         'Time for LE maths
 
-        Console.WriteLine(2 + 2)
+        'Console.WriteLine(2 + 2)
+        'Console.ReadLine()
+
+        'Console.WriteLine(2 / 7)
+        'Console.ReadLine()
+
+        'Console.WriteLine(82 - 2)
+        'Console.ReadLine()
+
+        'Console.WriteLine(2 * 3)
+        'Console.ReadLine()
+
+        'Console.WriteLine(2 \ 7)
+        'Console.ReadLine()
+
+        'Console.WriteLine(36.7 Mod 2.8)
+        'Console.ReadLine()
+
+        'Console.WriteLine(2 ^ 3)
+        'Console.ReadLine()
+
+
+        'Concatenate numbers 
+
+        Console.WriteLine("2" + "2")
         Console.ReadLine()
 
-        Console.WriteLine(2 / 7)
+        Console.WriteLine("2" & "2")
         Console.ReadLine()
 
-        Console.WriteLine(82 - 2)
-        Console.ReadLine()
 
-        Console.WriteLine(2 * 3)
-        Console.ReadLine()
-
-        Console.WriteLine(2 \ 7)
-        Console.ReadLine()
-
-        Console.WriteLine(36.7 Mod 2.8)
-        Console.ReadLine()
-
-        Console.WriteLine(2 ^ 3)
+        Console.WriteLine("Wadu" + " Heck")
         Console.ReadLine()
     End Sub
 
